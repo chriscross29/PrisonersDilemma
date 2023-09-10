@@ -1,5 +1,5 @@
 # Prisoner's Dilemma
-This assignment is part of the Programming (2IP90) course at TU/e. The task was to create a program that simulaties an iterated version of one of the most prominently studied phenomena in Game Theory, 'Prisoner’s Dilemma'. Here are some of the features of this mulit-player multi-round Prisoner’s Dilemma:
+This assignment is part of the Programming (2IP90) course at TU/e. The task was to create a program that simulates an iterated version of one of the most prominently studied phenomena in Game Theory, 'Prisoner’s Dilemma'. Here are some of the features of this mulit-player multi-round Prisoner’s Dilemma:
 
 ## About the simulation
 - Players are positioned on a 50 by 50 gird, Blue indicates a cooperating player, and Red indicates a defecting player.
